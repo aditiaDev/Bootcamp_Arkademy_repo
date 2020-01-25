@@ -13,9 +13,8 @@ SELECT A.name Cashier, C.name Product, B.name Category, C.price FROM cashier A, 
 WHERE A.id = C.id_cashier AND B.id = C.id_category;
 
 Untuk soal no 6.b terdapat pada folder "static_web".
-Berikut ScreenShoot untuk soal no 6.1:
-
+Berikut ScreenShoot untuk soal no 6.b:
+![image](https://user-images.githubusercontent.com/60288277/73120020-d8eb4700-3f9b-11ea-8667-471f289cede7.png)
 
 Untuk soal no. 6.c terdapat pada folder "web_crud".
-
 Berikut ini langkah-langkah untuk menjalankan aplikasi pada soal no. 6.c :
